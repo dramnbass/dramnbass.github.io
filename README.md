@@ -1,2 +1,2 @@
-# dramnbass.github.io/web1
+# dramnbass.github.io
 web_1
